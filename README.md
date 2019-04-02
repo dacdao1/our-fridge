@@ -10,9 +10,9 @@ Above is my written documentation for what this app supposed to do. Below is a b
 ## Use cases to accomplish within this web app
 
 - [] Login page that let the user access their groceries list.
-- [] Have a login page, user page, maybe recipe page... -other order out services, i.e., Grub Hub or door dash-
+- [] Have a login page, user page, maybe recipe page... _other order out services, i.e., Grub Hub or door dash_
 - [] The user page will have an input text field that user can input their groceries item.
-- [] Each groceries items will have the date that it was purchased... -have expiration dates for certain foods, i.e., milk.-
+- [] Each groceries items will have the date that it was purchased... _have expiration dates for certain foods, i.e., milk._
 - [] Have push notification for foods that are about to expire or based on the user input expires date for certain foods.
 - [] Use outside API that has different recipes and use that to suggest a dish to the user, with whatever foods that are left in their list
 - [] Log out page and animation
